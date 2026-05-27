@@ -1,0 +1,27 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-eb0c2066.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/fonts/Nunito-Bold.otf": {
+    "file": "assets/Nunito-Bold-f373495c.otf",
+    "src": "resources/fonts/Nunito-Bold.otf"
+  },
+  "resources/fonts/Tajawal-Regular.ttf": {
+    "file": "assets/Tajawal-Regular-910e6857.ttf",
+    "src": "resources/fonts/Tajawal-Regular.ttf"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-73168167.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-73168167.css"
+    ],
+    "file": "assets/app-b45e3601.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
